@@ -23,4 +23,6 @@ int main(void)
 
 		round++;
 	}
+
+	return (0);
 }
