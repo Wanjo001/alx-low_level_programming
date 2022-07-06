@@ -15,7 +15,6 @@ void print_name_as_is(char *name)
 /**
  * print_name_uppercase - print a name in uppercase
  * @name: name of the person
- *
  * Return: Nothing.
  */
 void print_name_uppercase(char *name)
@@ -40,7 +39,6 @@ void print_name_uppercase(char *name)
 
 /**
  * main - check the code
- *
  * Return: Always 0.
  */
 int main(void)
